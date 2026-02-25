@@ -1,4 +1,7 @@
-# Modelo predictivo de demanda para planificación de stock en productos lácteos
+# Predicción de Demanda Mensual — Distribuidora Láctea
+
+Modelo de machine learning para predecir la demanda mensual futura y optimizar
+la planificación de pedidos a proveedores.
 
 ## 📌 Objetivo del proyecto
 
