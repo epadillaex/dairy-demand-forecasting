@@ -17,3 +17,23 @@ Este problema es especialmente relevante en un entorno donde:
 - Una mala planificación puede provocar:
     - Roturas de stock, con impacto directo en ventas y satisfacción del cliente.
     - Exceso de inventario, que en productos lácteos se traduce en pérdidas económicas por caducidad.
+
+## 🗂️ Estructura del repositorio
+
+        ├── data/
+        │   ├── raw/
+        │   │   └── dataset_ventas_lacteor_2024.csv
+        │   └── processed/
+        │       └── datos_mensuales.csv
+        ├── notebooks/
+        │   ├── 01_eda.ipynb
+        │   ├── 02_feature_engineering.ipynb
+        │   └── 03_modeling.ipynb
+        ├── src/
+        │   ├── preprocessing.py
+        │   ├── 
+        │   ├── 
+        │   └── 
+        ├── results/
+        ├── README.md
+        └── requirements.txt
