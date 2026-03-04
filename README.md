@@ -126,7 +126,7 @@ El modelo explica más del **85% de la varianza** en el conjunto de test, con un
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/dairy-demand-forecasting.git
+   git clone https://github.com/epadillaex/dairy-demand-forecasting.git
    cd dairy-demand-forecasting
    ```
 
